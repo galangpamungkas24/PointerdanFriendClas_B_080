@@ -18,6 +18,7 @@ int main (){
     mahasiswa &refMhs = mhs; //Pointer Reference refMhs
     refMhs.nim = 2; //Member Access Operator
     mhs.ShowNim();
+    
 
     mahasiswa *pMhs = &mhs; //Pointer Deference pMhs
     pMhs->nim = 3; //Arrow Operator
