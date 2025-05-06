@@ -55,25 +55,7 @@ class pelajar {
     
    
     
-    class siswa
-    {
-    private:
-        int id;
-    
-    public:
-        void setid(int pId);
-        void displayAll(orang &a);
-        
-    };
-    
-    void siswa::displayAll(orang &a)
-    {
-        cout << id << endl << a.nama;
-    }
-    void orang::setNama(string pNama)
-    {
-        nama = pNama;
-    }
+   
     void siswa::setId(int pId)
     {
         id=pId;
