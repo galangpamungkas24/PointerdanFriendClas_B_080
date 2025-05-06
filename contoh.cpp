@@ -19,7 +19,7 @@ class PersegiPanjang
 
 
 
-    
+
 
     int luasPp(int a, int b)
     {
@@ -59,4 +59,5 @@ int main()
     cout << "Luas Persegi Panjang : " << 
     objekPP.luasPp(objekPP.panjang, objekPP.lebar) << endl;
 
+    
 }
