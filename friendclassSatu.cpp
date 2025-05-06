@@ -58,9 +58,6 @@ void siswa::setId(int pId)
 
 
 
-void manusia::showNilaiPelajar(pelajar &x) {
-    cout << x.nilai;
-}
 
 
 
