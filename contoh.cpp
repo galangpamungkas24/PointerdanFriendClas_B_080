@@ -16,6 +16,11 @@ class PersegiPanjang
         cin >> lebar;
     }
 
+
+
+
+    
+
     int luasPp(int a, int b)
     {
         return a * b;
